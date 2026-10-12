@@ -3,9 +3,16 @@
 A new Flutter project.
 
 ## App Preview
+<table>
+  <tr>
+    <td align="center"><b>Counter Screen</b></td>
+  </tr>
+  <tr>
+    <img width="447" height="975" alt="Screenshot 2026-10-12 124717" src="https://github.com/user-attachments/assets/2fda3e0c-6570-466a-9d4c-489c9061b5f7" />
 
-![Counter App Screenshot](https://github.com/omarmahmouddev82/counter/blob/master/Screenshot%202026-10-12%20124717.png?raw=true)
 
+  </tr>
+</table>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
