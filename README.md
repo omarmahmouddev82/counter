@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## App Preview
+
+![Counter App Screenshot](https://github.com/omarmahmouddev82/counter/blob/master/Screenshot%202026-10-12%20124717.png?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
